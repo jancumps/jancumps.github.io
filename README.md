@@ -9,5 +9,5 @@
 * [firmware](https://github.com/jancumps/msp432/tree/master/MSP432_SCPI_ElectronicLoad)
 * [java gui](https://github.com/jancumps/eLoadGui)
 
-
+![Programmable DC Load action picture](/images/eload_cover.png)
 
