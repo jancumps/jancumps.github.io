@@ -7,5 +7,5 @@
 
 **Programmable DC load:**
 
-https://github.com/jancumps/msp432/tree/master/MSP432_SCPI_ElectronicLoad
+[https://github.com/jancumps/msp432/tree/master/MSP432_SCPI_ElectronicLoad](https://github.com/jancumps/msp432/tree/master/MSP432_SCPI_ElectronicLoad)
 
