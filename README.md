@@ -1,7 +1,7 @@
 # jancumps.github.io
 
 
-**Hercules Safety Microcontroller Projects:**
+**Texas Instruments Hercules Safety Microcontroller Projects:**
 * [several libraries](https://github.com/jancumps/hercules_libraries)
 
 ![Hercules Functional Safety Demo action picture](/images/hercules_cover.png)
