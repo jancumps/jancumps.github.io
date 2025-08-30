@@ -3,6 +3,7 @@
 ## embedded C++   
 * [ST Teseo-LIV3 driver class that supports UART and I2C comms. Allows request-response mode interactions.](https://community.element14.com/technologies/embedded/b/blog/posts/c-library-for-st-teseo-gps---pt-1-pico-and-i2c-support)  
 * [C++ callback manager: supports classic C function, a lambda, a static class method or an object method as handler)](https://github.com/jancumps/callbackmanager)
+* [C++ parser builds objects from NMEA data strings](https://github.com/jancumps/gps_nmea_lib)  
 
 ## Raspberry Pico  
 
@@ -11,7 +12,6 @@
 * [ST Teseo-LIV3 driver class that supports UART and I2C comms. Allows request-response mode interactions : port for Raspberry Pico](https://github.com/jancumps/pico_gps_teseo)
    
 ![Pico woth a ST Teseo-LIV3 GNSS Module ](/images/teseo_pico_cover.jpg)  
-* [C++ parser builds objects from NMEA data strings](https://github.com/jancumps/gps_nmea_lib)  
 
 **PIO: C++ Libraries**  
 * [PIO managed stepper motor example with notification](https://community.element14.com/products/raspberry-pi/b/blog/posts/raspberry-pio-stepper-library-documentation---2-advanced-example-with-notification)  
