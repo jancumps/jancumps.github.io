@@ -10,13 +10,11 @@
  
 * [ST Teseo-LIV3 driver class that supports UART and I2C comms. Allows request-response mode interactions : port for Raspberry Pico](https://github.com/jancumps/pico_gps_teseo)
 
-* ![Pico woth a ST Teseo-LIV3 GNSS Module ](/images/teseo_pico_cover.jpg)
+![Pico woth a ST Teseo-LIV3 GNSS Module ](/images/teseo_pico_cover.jpg)
 
 **PIO: C++ Libraries**  
 [PIO managed stepper motor example with notification](https://community.element14.com/products/raspberry-pi/b/blog/posts/raspberry-pio-stepper-library-documentation---2-advanced-example-with-notification)  
 [pio_irq lib: handle PIO relative objects with interrupts](https://community.element14.com/products/raspberry-pi/b/blog/posts/oo-library-to-handle-pico-pio-relative-interrupts)  
-
-** 
 
 ## Texas Instruments
 
